@@ -1,2 +1,8 @@
-# hackathon-submission-template
-Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
+# 'Kannya,
+
+# The Ultimate Women Empowerment..
+                   
+
+                              
+This is platform to bring out inner fire from women so that they can stand side by side to men..
+The platform helps women for startup management,health related tips,innovations,scholarships and much more..
