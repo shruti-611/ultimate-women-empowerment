@@ -1,6 +1,6 @@
-                                                 'Kannya,
+                                                # 'Kannya,
 
-                                    The Ultimate Women Empowerment..
+                                   # The Ultimate Women Empowerment..
                         
 
 This is platform to bring out inner fire from women so that they can stand side by side to men..
